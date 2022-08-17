@@ -1,1 +1,1 @@
-release:npx cowsay Procfile är ju lätt!
+release: npx cowsay Procfile är ju lätt
